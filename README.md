@@ -8,4 +8,6 @@ Neste site utilizei pela primeira vez o pré-processador Less e um pouco de Java
 Este é o segundo site criado inteiramente por mim, o primeiro foi o [meu portifólio](https://mirrabernardo.github.io/portfolio/).
 
 
+Feito por Mirra Bernardo.
 
+![logo](https://mirrabernardo.github.io/portfolio/assents/logo.png?raw=true)
