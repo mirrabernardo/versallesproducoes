@@ -179,7 +179,7 @@ h1 {
 .container-sobre {
     padding: 5%;
     margin: auto;
-    height: 100vh;
+    padding-bottom: 200px;
 
     .card-sobre {
         display: flex;
@@ -396,5 +396,14 @@ footer {
             }
 
         }
-    }    
+    }  
+    
+    .container-sobre .card-sobre {
+        flex-direction: column-reverse;
+        align-items: center;
+
+        .text-sobre {
+            width: 100%;
+        }
+    }
 }
